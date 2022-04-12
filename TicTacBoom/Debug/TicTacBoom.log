@@ -1,0 +1,21 @@
+﻿  AssetManager.cpp
+  Game.cpp
+  GameOverState.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(532,31): error C2059: syntax error: '-'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(598): message : see reference to class template instantiation 'std::array<_Ty,_Size>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(532,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(709,31): error C2059: syntax error: '-'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(782): message : see reference to class template instantiation 'std::array<_Ty,0>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(709,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  GameState.cpp
+  MainMenuState.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(532,31): error C2059: syntax error: '-'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(598): message : see reference to class template instantiation 'std::array<_Ty,_Size>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(532,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(709,31): error C2059: syntax error: '-'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(782): message : see reference to class template instantiation 'std::array<_Ty,0>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\array(709,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Alex Lux\Desktop\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\MainMenuState.cpp(25,130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PauseState.cpp
+  StateCreate.cpp
+  Generating Code...

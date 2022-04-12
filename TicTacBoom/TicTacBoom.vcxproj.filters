@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Sound Off.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Sound On.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\space.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\X Win.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\X.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Achievements.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Game Title.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Grid.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Home Button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\IntroBackground.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Main Menu Background.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\MainMenu.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\O Win.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\O.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Pause Background.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Pause Button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Pause Window.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Play Button Outer.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Play Button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Resume Button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Retry Button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\arial.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Marker Felt.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\State.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\StateCreate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\IntroState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\AI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\GameState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\GameOverState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\MainMenuState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\PauseState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\InputManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\ResourcesManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Defenitions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\AssetManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\AI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\GameState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\GameOverState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\PauseState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\IntroState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\MainMenuState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\ResourcesManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\AssetManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\StateCreate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Education\Computer Science\Algorithms\Datas Structures and Algorithms(CSM20)\TicTacToe\SFMLTicTacToe\InputManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
